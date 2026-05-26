@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
 import Container from "../components/Container";
+import Button from "../components/Button";
 
 // Data 10 isu terhangat di Indonesia
 const trendingIssues = [
@@ -45,6 +46,9 @@ export default function FiturXyz() {
             <p className="mt-2 text-sm sm:text-base text-slate-300 leading-relaxed">
               Selamat datang di pusat pemantauan isu strategis. Data di bawah merangkum tren perbincangan hangat, sentimen publik, dan topik utama di Indonesia saat ini.
             </p>
+            <div className="mt-6">
+              <Button onClick={() => alert("Tambah diklik")}>Tambah</Button>
+            </div>
           </div>
           {/* Ornamen Estetik Latar Belakang */}
           <div className="absolute top-0 right-0 -mt-4 -mr-4 h-32 w-32 rounded-full bg-indigo-500/10 blur-2xl"></div>
