@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "tittle": "Laptop Gaming ASUS ROG",
+    "code": "PRD001",
+    "category": "Laptop",
+    "brand": "ASUS",
+    "price": 18500000,
+    "stock": 10,
+    "gambar": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6"
+  },
+  {
+    "id": 2,
+    "tittle": "MacBook Air M2",
+    "code": "PRD002",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 21000000,
+    "stock": 5,
+    "gambar": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8"
+  },
+  {
+    "id": 3,
+    "tittle": "Mouse Logitech G102",
+    "code": "PRD003",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 250000,
+    "stock": 25,
+    "gambar": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+  },
+  {
+    "id": 4,
+    "tittle": "Keyboard Mechanical Fantech",
+    "code": "PRD004",
+    "category": "Accessories",
+    "brand": "Fantech",
+    "price": 550000,
+    "stock": 15,
+    "gambar": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae"
+  },
+  {
+    "id": 5,
+    "tittle": "Monitor Samsung 24 Inch",
+    "code": "PRD005",
+    "category": "Monitor",
+    "brand": "Samsung",
+    "price": 2300000,
+    "stock": 8,
+    "gambar": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf"
+  },
+  {
+    "id": 6,
+    "tittle": "iPhone 15 Pro",
+    "code": "PRD006",
+    "category": "Smartphone",
+    "brand": "Apple",
+    "price": 19000000,
+    "stock": 7,
+    "gambar": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 7,
+    "tittle": "Samsung Galaxy S24",
+    "code": "PRD007",
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "price": 17500000,
+    "stock": 9,
+    "gambar": "https://images.unsplash.com/photo-1580910051074-3eb694886505"
+  },
+  {
+    "id": 8,
+    "tittle": "Xiaomi Redmi Note 13",
+    "code": "PRD008",
+    "category": "Smartphone",
+    "brand": "Xiaomi",
+    "price": 3200000,
+    "stock": 20,
+    "gambar": "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+  },
+  {
+    "id": 9,
+    "tittle": "Headset HyperX Cloud",
+    "code": "PRD009",
+    "category": "Accessories",
+    "brand": "HyperX",
+    "price": 1200000,
+    "stock": 12,
+    "gambar": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  {
+    "id": 10,
+    "tittle": "Printer Epson L3210",
+    "code": "PRD010",
+    "category": "Printer",
+    "brand": "Epson",
+    "price": 2500000,
+    "stock": 6,
+    "gambar": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6"
+  },
+  {
+    "id": 11,
+    "tittle": "SSD Samsung 1TB",
+    "code": "PRD011",
+    "category": "Storage",
+    "brand": "Samsung",
+    "price": 1800000,
+    "stock": 18,
+    "gambar": "https://images.unsplash.com/photo-1591488320449-011701bb6704"
+  },
+  {
+    "id": 12,
+    "tittle": "Flashdisk Sandisk 64GB",
+    "code": "PRD012",
+    "category": "Storage",
+    "brand": "Sandisk",
+    "price": 95000,
+    "stock": 40,
+    "gambar": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd"
+  },
+  {
+    "id": 13,
+    "tittle": "Webcam Logitech C270",
+    "code": "PRD013",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 350000,
+    "stock": 14,
+    "gambar": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+  },
+  {
+    "id": 14,
+    "tittle": "Router TP-Link",
+    "code": "PRD014",
+    "category": "Networking",
+    "brand": "TP-Link",
+    "price": 450000,
+    "stock": 16,
+    "gambar": "https://images.unsplash.com/photo-1647427060118-4911c9821b82"
+  },
+  {
+    "id": 15,
+    "tittle": "Smart TV LG 43 Inch",
+    "code": "PRD015",
+    "category": "Television",
+    "brand": "LG",
+    "price": 5200000,
+    "stock": 5,
+    "gambar": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1"
+  },
+  {
+    "id": 16,
+    "tittle": "PlayStation 5",
+    "code": "PRD016",
+    "category": "Console",
+    "brand": "Sony",
+    "price": 8500000,
+    "stock": 4,
+    "gambar": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db"
+  },
+  {
+    "id": 17,
+    "tittle": "Xbox Series X",
+    "code": "PRD017",
+    "category": "Console",
+    "brand": "Microsoft",
+    "price": 9200000,
+    "stock": 3,
+    "gambar": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d"
+  },
+  {
+    "id": 18,
+    "tittle": "Nintendo Switch OLED",
+    "code": "PRD018",
+    "category": "Console",
+    "brand": "Nintendo",
+    "price": 5600000,
+    "stock": 6,
+    "gambar": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e"
+  },
+  {
+    "id": 19,
+    "tittle": "Kamera Canon EOS",
+    "code": "PRD019",
+    "category": "Camera",
+    "brand": "Canon",
+    "price": 11000000,
+    "stock": 7,
+    "gambar": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32"
+  },
+  {
+    "id": 20,
+    "tittle": "Drone DJI Mini",
+    "code": "PRD020",
+    "category": "Drone",
+    "brand": "DJI",
+    "price": 7500000,
+    "stock": 5,
+    "gambar": "https://images.unsplash.com/photo-1473968512647-3e447244af8f"
+  },
+  {
+    "id": 21,
+    "tittle": "Speaker JBL Flip",
+    "code": "PRD021",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 1500000,
+    "stock": 13,
+    "gambar": "https://images.unsplash.com/photo-1589003077984-894e133dabab"
+  },
+  {
+    "id": 22,
+    "tittle": "Powerbank Anker 20000mAh",
+    "code": "PRD022",
+    "category": "Accessories",
+    "brand": "Anker",
+    "price": 650000,
+    "stock": 17,
+    "gambar": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5"
+  },
+  {
+    "id": 23,
+    "tittle": "Smartwatch Xiaomi",
+    "code": "PRD023",
+    "category": "Wearable",
+    "brand": "Xiaomi",
+    "price": 950000,
+    "stock": 19,
+    "gambar": "https://images.unsplash.com/photo-1546868871-7041f2a55e12"
+  },
+  {
+    "id": 24,
+    "tittle": "Tablet Samsung Galaxy Tab",
+    "code": "PRD024",
+    "category": "Tablet",
+    "brand": "Samsung",
+    "price": 4800000,
+    "stock": 8,
+    "gambar": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0"
+  },
+  {
+    "id": 25,
+    "tittle": "Laptop Acer Nitro 5",
+    "code": "PRD025",
+    "category": "Laptop",
+    "brand": "Acer",
+    "price": 14500000,
+    "stock": 9,
+    "gambar": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+  },
+  {
+    "id": 26,
+    "tittle": "Keyboard Logitech MX",
+    "code": "PRD026",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 1250000,
+    "stock": 11,
+    "gambar": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97"
+  },
+  {
+    "id": 27,
+    "tittle": "Mouse Razer DeathAdder",
+    "code": "PRD027",
+    "category": "Accessories",
+    "brand": "Razer",
+    "price": 850000,
+    "stock": 10,
+    "gambar": "https://images.unsplash.com/photo-1563297007-0686b7003af7"
+  },
+  {
+    "id": 28,
+    "tittle": "Monitor MSI Gaming",
+    "code": "PRD028",
+    "category": "Monitor",
+    "brand": "MSI",
+    "price": 3400000,
+    "stock": 6,
+    "gambar": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf"
+  },
+  {
+    "id": 29,
+    "tittle": "SSD Kingston 512GB",
+    "code": "PRD029",
+    "category": "Storage",
+    "brand": "Kingston",
+    "price": 780000,
+    "stock": 21,
+    "gambar": "https://images.unsplash.com/photo-1591488320449-011701bb6704"
+  },
+  {
+    "id": 30,
+    "tittle": "Printer Canon Pixma",
+    "code": "PRD030",
+    "category": "Printer",
+    "brand": "Canon",
+    "price": 1750000,
+    "stock": 7,
+    "gambar": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6"
+  }
+]
