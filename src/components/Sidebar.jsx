@@ -78,6 +78,13 @@ export default function Sidebar() {
             </NavLink>
           </li>
 
+            <li>
+            <NavLink to="/notes" className={menuClass}>
+              <FaBoxOpen className="text-xl" />
+              <span className="text-sm">notes</span>
+            </NavLink>
+          </li>
+
           {/* Divider */}
           <div className="my-6 border-t border-slate-50 mx-4"></div>
           <p className="text-[10px] font-black text-slate-400 uppercase tracking-[0.3em] mb-4 px-4">

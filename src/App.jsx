@@ -2,6 +2,7 @@ import React, { Suspense } from "react";
 import "./assets/tailwind.css";
 import Loading from "./components/Loading";
 import { Route, Routes } from "react-router-dom";
+import Notes from "./pages/Notes";
 
 import MainLayout from "./layouts/MainLayout";
 import AuthLayout from "./layouts/AuthLayout";
@@ -11,6 +12,7 @@ const NotFound = React.lazy(() => import("./pages/NotFound"));
 const Orders = React.lazy(() => import("./pages/Orders"));
 const Customers = React.lazy(() => import("./pages/Customers"));
 const FiturXyz = React.lazy(() => import("./pages/FiturXyz"))
+// const Notes = React.lazy(() => import("./pages/Notes"))
 
 /* Product */
 const Product = React.lazy(() => import("./pages/products"));
@@ -49,6 +51,8 @@ function App() {
 
           {/* fitur xyz */}
           <Route path="/fiturXyz" element={<FiturXyz />} />
+
+          <Route path="/notes" element={<Notes />} />
 
           {/* Detail Customer */}
           <Route
